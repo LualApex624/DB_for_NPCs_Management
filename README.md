@@ -1,6 +1,6 @@
 # 🎮 Fantasy NPC Database — DB_FOR_PNJ
 
-> Academic project — EFREI Paris | Paul-Alex Yao  
+> Academic project improvement (version pro) — EFREI Paris | Paul-Alex Yao  
 > A relational database for managing Non-Playable Characters in a fantasy video game universe.
 
 ---
